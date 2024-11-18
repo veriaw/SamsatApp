@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SamsatApp</string>
+    <string-array name="TypeSubmission">
+        <item>Perpanjang SIM</item>
+        <item>Perpanjang STNK</item>
+        <item>Pembayaran Pajak</item>
+    </string-array>
+</resources>
